@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".breakpoints": [
+      {
+        "id": "2c7afd7d-91be-4bf8-b3d6-0ffddd120a20",
+        "line": 12,
+        "version": 1,
+        "index": 179
+      }
+    ],
+    "main.py": [
+      {
+        "id": "a23d4716-421b-4e47-8ef8-775b9ff91737",
+        "line": 76,
+        "version": 3440,
+        "index": 3252
+      }
+    ]
+  }
+}
